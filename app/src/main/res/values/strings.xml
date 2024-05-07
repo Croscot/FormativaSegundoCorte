@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FormativaSegundoCorte</string>
+    <string name="cod">Codigo Archivo</string>
+    <string name="nombrearchivo">Nombre Archivo</string>
+    <string name="tamaño">Tamaño</string>
+    <string name="tipo">Tipo</string>
+    <string name="guardar">GUARDAR</string>
+    <string name="boton_consultar">CONSULTAR</string>
+    <string name="boton_eliminar">ELIMINAR</string>
+    <string name="boton_listado">LISTADO</string>
+    <string name="boton_actualizar">ACTUALIZAR</string>
+</resources>
